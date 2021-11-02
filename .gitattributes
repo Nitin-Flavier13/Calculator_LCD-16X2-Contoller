@@ -1,2 +1,3 @@
-*.c linguist-language=true
-*.cpp linguist-language=false
+*.c linguist-detectable=true  
+*.cpp linguist-detectable=false  
+ 
